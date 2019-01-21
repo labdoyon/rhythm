@@ -1,0 +1,24 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Tue May 30 2017 14:39:42
+#sha1: e2925a
+#modules: ld_rhythmMenu.py (350ab8)
+#display: size=(1366, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4315,Stimulus,presented,0
+10459,design,log,
+#design: #exp: SyncL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10459,design,logged,
+10459,Experiment,started
+10479,Stimulus,presented,0
+12714,Keyboard,received,53,wait
+12733,Stimulus,presented,0
+22756,Stimulus,presented,0
+32760,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_ohx0wm\freq675_dur50.0_jzbtyr.wav
+32762,stderr,received,'Traceback (most recent call last):'
+32764,stderr,received,'  File "ld_rhythmTask.py", line 126, in <module>'
+32765,stderr,received,"    exp.clock.wait(infos['beepEach']*1000)"
+32766,stderr,received,"KeyError: 'beepEach'"

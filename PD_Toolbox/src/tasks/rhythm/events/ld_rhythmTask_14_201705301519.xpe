@@ -1,0 +1,92 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Tue May 30 2017 15:19:57
+#sha1: 1b0027
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=True, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+5402,Stimulus,presented,0
+10495,design,log,
+#design: #exp: SyncL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10495,design,logged,
+10495,Experiment,started
+10515,Stimulus,presented,0
+18334,Keyboard,received,53,wait
+18349,Stimulus,presented,0
+28367,Stimulus,presented,0
+28371,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+30372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+32372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+34372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+36372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+38372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+40372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+42372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+44372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+46372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+48372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+50372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+52372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+54372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+56372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+58372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+60372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+62372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+64372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+66372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+68372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+70372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+72372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+74372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+76372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+78372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+80372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+82372,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+84383,Stimulus,presented,0
+84389,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+86398,Stimulus,presented,0
+86404,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+88415,Stimulus,presented,0
+88433,Stimulus,presented,0
+148455,Stimulus,presented,0
+158472,Stimulus,presented,0
+158475,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+160476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+162476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+164476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+166476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+168476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+170476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+172476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+174476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+176476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+178476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+180476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+182476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+184476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+186476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+188476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+190476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+192476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+194476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+196476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+198476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+200476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+202476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+204476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+206476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+208476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+210476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+212476,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+214486,Stimulus,presented,0
+214490,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+216501,Stimulus,presented,0
+216506,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mtrr7k\freq675_dur50.0_kotgc4.wav
+218517,Stimulus,presented,0
+218536,Stimulus,presented,0
+278560,Stimulus,presented,0
+288564,Experiment,ended
+288568,Stimulus,presented,12

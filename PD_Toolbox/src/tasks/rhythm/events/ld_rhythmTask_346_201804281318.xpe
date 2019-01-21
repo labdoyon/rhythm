@@ -1,0 +1,74 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Sat Apr 28 2018 13:18:44
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4740,Stimulus,presented,0
+10851,design,log,
+#design: #exp: SyncS
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_579
+#design: block_cnt,block_id,trial_cnt,trial_id
+10852,design,logged,
+10852,Experiment,started
+10875,Stimulus,presented,0
+12333,Keyboard,received,53,wait
+12352,Stimulus,presented,0
+22373,Stimulus,presented,0
+22376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+23376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+24376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+25376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+26376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+27195,Keyboard,received,121,check
+27357,Keyboard,received,121,check
+27376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+27515,Keyboard,received,121,check
+27685,Keyboard,received,121,check
+27857,Keyboard,received,121,check
+28015,Keyboard,received,121,check
+28165,Keyboard,received,121,check
+28376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+29376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+30376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+31376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+32376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+33376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+34376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+35376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+36376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+37376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+38376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+39376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+40376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+41376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+42376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+43376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+44376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+45376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+46376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+47376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+48376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+49376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+50376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+51376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+52376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+53376,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_efn5xm\freq675_dur50.0_u7rfwx.wav
+53739,Experiment,paused
+53744,Stimulus,presented,12
+54980,Keyboard,received,121,check
+55170,Keyboard,received,121,check
+55370,Keyboard,received,121,check
+55562,Keyboard,received,121,check
+55740,Keyboard,received,121,check
+55910,Keyboard,received,121,check
+56120,Keyboard,received,121,check
+56680,Keyboard,received,121,check
+56820,Keyboard,received,121,check
+56962,Keyboard,received,y,wait_char
+56963,Experiment,ended
+56968,Stimulus,presented,12
+57100,Keyboard,received,121,check
+57240,Keyboard,received,121,check

@@ -1,0 +1,89 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Thu Jul 20 2017 10:27:03
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4113,Stimulus,presented,0
+10188,design,log,
+#design: #exp: SyncL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_211
+#design: block_cnt,block_id,trial_cnt,trial_id
+10188,design,logged,
+10188,Experiment,started
+10204,Stimulus,presented,0
+12716,Keyboard,received,53,wait
+12730,Stimulus,presented,0
+22744,Stimulus,presented,0
+22748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+24086,Keyboard,received,52,check
+24748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+26166,Keyboard,received,52,check
+26748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+27102,Keyboard,received,52,check
+28748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+29158,Keyboard,received,52,check
+30748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+31198,Keyboard,received,52,check
+32748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+33134,Keyboard,received,52,check
+34748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+35102,Keyboard,received,52,check
+36748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+37070,Keyboard,received,52,check
+38748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+39070,Keyboard,received,52,check
+40748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+41070,Keyboard,received,52,check
+42748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+43062,Keyboard,received,52,check
+44748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+45126,Keyboard,received,52,check
+46748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+47102,Keyboard,received,52,check
+48748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+49070,Keyboard,received,52,check
+50748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+51125,Keyboard,received,52,check
+52748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+53070,Keyboard,received,52,check
+54748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+55062,Keyboard,received,52,check
+56748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+57101,Keyboard,received,52,check
+58748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+59069,Keyboard,received,52,check
+60748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+61077,Keyboard,received,52,check
+62748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+63030,Keyboard,received,52,check
+64748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+65053,Keyboard,received,52,check
+66748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+67093,Keyboard,received,52,check
+68748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+69053,Keyboard,received,52,check
+70748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+71053,Keyboard,received,52,check
+72748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+73101,Keyboard,received,52,check
+74748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+75061,Keyboard,received,52,check
+76748,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+77109,Keyboard,received,52,check
+78758,Stimulus,presented,0
+78763,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+79493,Keyboard,received,52,check
+80677,Keyboard,received,52,check
+80773,Stimulus,presented,0
+80778,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment__ja9ya\freq675_dur50.0_7xolhe.wav
+82788,Stimulus,presented,0
+82804,Stimulus,presented,0
+83021,Keyboard,received,52,check
+112092,Experiment,paused
+112096,Stimulus,presented,12
+114467,Keyboard,received,y,wait_char
+114467,Experiment,ended
+114471,Stimulus,presented,12

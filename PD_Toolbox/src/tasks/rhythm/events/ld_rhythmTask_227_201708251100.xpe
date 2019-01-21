@@ -1,0 +1,89 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Fri Aug 25 2017 11:00:18
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4135,Stimulus,presented,0
+10211,design,log,
+#design: #exp: SyncL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_380
+#design: block_cnt,block_id,trial_cnt,trial_id
+10212,design,logged,
+10212,Experiment,started
+10227,Stimulus,presented,0
+13230,Keyboard,received,53,wait
+13244,Stimulus,presented,0
+23258,Stimulus,presented,0
+23264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+23914,Keyboard,received,52,check
+25264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+25906,Keyboard,received,52,check
+27264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+27586,Keyboard,received,52,check
+29264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+29634,Keyboard,received,52,check
+31264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+31578,Keyboard,received,52,check
+33264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+33570,Keyboard,received,52,check
+35264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+35578,Keyboard,received,52,check
+37264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+37586,Keyboard,received,52,check
+39264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+39602,Keyboard,received,52,check
+41264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+41594,Keyboard,received,52,check
+43264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+43545,Keyboard,received,52,check
+45264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+45530,Keyboard,received,52,check
+47264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+47593,Keyboard,received,52,check
+49264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+49609,Keyboard,received,52,check
+51264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+51449,Keyboard,received,52,check
+53249,Keyboard,received,52,check
+53264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+55264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+55457,Keyboard,received,52,check
+57137,Keyboard,received,52,check
+57264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+59264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+61264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+63264,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_dtqqwd\freq675_dur50.0_fc7ml9.wav
+63834,Experiment,paused
+63837,Stimulus,presented,12
+64074,Experiment,paused
+64076,Stimulus,presented,12
+67759,Keyboard,received,121,check
+67889,Keyboard,received,121,check
+68029,Keyboard,received,121,check
+68179,Keyboard,received,121,check
+68318,Keyboard,received,121,check
+68471,Keyboard,received,121,check
+69377,Keyboard,received,121,check
+69547,Keyboard,received,121,check
+69707,Keyboard,received,121,check
+71534,Keyboard,received,121,check
+71744,Keyboard,received,121,check
+71924,Keyboard,received,121,check
+72134,Keyboard,received,121,check
+72466,Keyboard,received,121,check
+72873,Keyboard,received,121,check
+73762,Keyboard,received,121,check
+74710,Keyboard,received,121,check
+75360,Keyboard,received,121,check
+76199,Keyboard,received,121,check
+77167,Keyboard,received,121,check
+85656,Keyboard,received,121,check
+85915,Keyboard,received,121,check
+86115,Keyboard,received,y,wait_char
+86115,Experiment,ended
+86119,Stimulus,presented,12
+88791,Keyboard,received,121,check
+89071,Keyboard,received,121,check

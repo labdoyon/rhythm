@@ -1,0 +1,87 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Fri Jul 14 2017 10:35:50
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4148,Stimulus,presented,0
+10225,design,log,
+#design: #exp: SyncS
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10225,design,logged,
+10225,Experiment,started
+10243,Stimulus,presented,0
+11714,Keyboard,received,53,wait
+11731,Stimulus,presented,0
+21747,Stimulus,presented,0
+21750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+22750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+23750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+24750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+25750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+26750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+27750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+28750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+29750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+30750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+31750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+32750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+33750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+34750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+35750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+36750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+37750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+38750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+39750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+40750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+41750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+42750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+43750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+44750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+45750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+46750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+47750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+48750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+49750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+50750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+51750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+52750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+53750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+54750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+55750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+56750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+57750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+58750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+59750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+60750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+61750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+62750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+63750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+64750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+65750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+66750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+67750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+68750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+69750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+70750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+71750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+72750,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_moia2y\freq675_dur50.0__jnunr.wav
+72892,Experiment,paused
+72895,Stimulus,presented,12
+73082,Experiment,paused
+73084,Stimulus,presented,12
+73242,Experiment,paused
+73244,Stimulus,presented,12
+73391,Experiment,paused
+73393,Stimulus,presented,12
+77574,Keyboard,received,121,check
+77734,Keyboard,received,121,check
+77884,Keyboard,received,y,wait_char
+77884,Experiment,ended
+77888,Stimulus,presented,12
+78024,Keyboard,received,121,check
+78203,Keyboard,received,121,check
+78373,Keyboard,received,121,check

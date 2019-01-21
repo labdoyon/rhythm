@@ -1,0 +1,39 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Fri Jul 14 2017 10:28:28
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4117,Stimulus,presented,0
+10191,design,log,
+#design: #exp: SyncS
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10192,design,logged,
+10192,Experiment,started
+10208,Stimulus,presented,0
+11677,Keyboard,received,53,wait
+11692,Stimulus,presented,0
+21707,Stimulus,presented,0
+21710,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_myt1od\freq675_dur50.0_qvfyvr.wav
+21711,Experiment,paused
+21715,Stimulus,presented,12
+22191,Experiment,paused
+22193,Stimulus,presented,12
+22450,Experiment,paused
+22452,Stimulus,presented,12
+22680,Experiment,paused
+22682,Stimulus,presented,12
+23688,Keyboard,received,121,check
+23858,Keyboard,received,121,check
+24048,Keyboard,received,121,check
+30048,Keyboard,received,121,check
+30248,Keyboard,received,121,check
+30429,Keyboard,received,121,check
+30627,Keyboard,received,121,check
+30817,Keyboard,received,y,wait_char
+30817,Experiment,ended
+30821,Stimulus,presented,12
+31026,Keyboard,received,121,check

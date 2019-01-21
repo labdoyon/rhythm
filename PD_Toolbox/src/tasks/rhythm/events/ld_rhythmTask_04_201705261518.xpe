@@ -1,0 +1,51 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Fri May 26 2017 15:18:59
+#sha1: 3cd9b3
+#modules: ld_rhythmMenu.py (6a642f)
+#display: size=(1366, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4275,Stimulus,presented,0
+10355,design,log,
+#design: #exp: ImgL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10356,design,logged,
+10356,Experiment,started
+10374,Stimulus,presented,0
+13412,Keyboard,received,53,wait
+13430,Stimulus,presented,0
+15448,Stimulus,presented,0
+17454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+17794,Keyboard,received,50,check
+18840,Keyboard,received,50,check
+19454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+21454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+21534,Keyboard,received,50,check
+22918,Keyboard,received,50,check
+23454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+23532,Keyboard,received,50,check
+25214,Keyboard,received,50,check
+25454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+27454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+27542,Keyboard,received,50,check
+29430,Keyboard,received,50,check
+29454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+31454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+31612,Keyboard,received,50,check
+31729,Keyboard,received,50,check
+33454,Keyboard,received,50,check
+33454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+35293,Keyboard,received,50,check
+35454,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_srgxwl\freq675_dur50.0_l6qmpm.wav
+36458,Experiment,paused
+36462,Stimulus,presented,13
+37527,Keyboard,received,121,check
+38142,Keyboard,received,121,check
+38439,Keyboard,received,121,check
+38547,Keyboard,received,121,check
+38696,Keyboard,received,y,wait_char
+38696,Experiment,ended
+38700,Stimulus,presented,13
+38805,Keyboard,received,121,check

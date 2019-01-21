@@ -1,0 +1,100 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Mon Aug 28 2017 11:00:05
+#sha1: de2f0f
+#modules: ld_rhythmMenu.py (159d6d)
+#display: size=(1024, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4221,Stimulus,presented,0
+10297,design,log,
+#design: #exp: SyncL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_391
+#design: block_cnt,block_id,trial_cnt,trial_id
+10297,design,logged,
+10297,Experiment,started
+10313,Stimulus,presented,0
+13107,Keyboard,received,53,wait
+13121,Stimulus,presented,0
+23136,Stimulus,presented,0
+23140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+23763,Keyboard,received,52,check
+25140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+25722,Keyboard,received,52,check
+27140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+27530,Keyboard,received,52,check
+29140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+29554,Keyboard,received,52,check
+31140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+31554,Keyboard,received,52,check
+33140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+33522,Keyboard,received,52,check
+35140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+35546,Keyboard,received,52,check
+37140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+37538,Keyboard,received,52,check
+39140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+39602,Keyboard,received,52,check
+41140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+41562,Keyboard,received,52,check
+43140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+43562,Keyboard,received,52,check
+45140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+45546,Keyboard,received,52,check
+47140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+47586,Keyboard,received,52,check
+49140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+49561,Keyboard,received,52,check
+51140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+51601,Keyboard,received,52,check
+53140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+53569,Keyboard,received,52,check
+55140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+55577,Keyboard,received,52,check
+57140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+57561,Keyboard,received,52,check
+59140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+59529,Keyboard,received,52,check
+61140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+61545,Keyboard,received,52,check
+63140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+63577,Keyboard,received,52,check
+65140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+65577,Keyboard,received,52,check
+67140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+67569,Keyboard,received,52,check
+69140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+69561,Keyboard,received,52,check
+71140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+71561,Keyboard,received,52,check
+73140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+73537,Keyboard,received,52,check
+75140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+75569,Keyboard,received,52,check
+77140,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+77545,Keyboard,received,52,check
+79150,Stimulus,presented,0
+79154,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+80528,Keyboard,received,52,check
+81164,Stimulus,presented,0
+81168,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_a8lu1r\freq675_dur50.0_lfemco.wav
+81344,Keyboard,received,52,check
+82232,Keyboard,received,52,check
+83178,Stimulus,presented,0
+83194,Stimulus,presented,0
+85032,Keyboard,received,52,check
+91769,Keyboard,received,52,check
+93792,Keyboard,received,52,check
+94920,Keyboard,received,52,check
+95328,Keyboard,received,52,check
+95760,Keyboard,received,52,check
+98280,Keyboard,received,52,check
+99224,Keyboard,received,52,check
+100168,Keyboard,received,52,check
+101136,Keyboard,received,52,check
+108618,Experiment,paused
+108621,Stimulus,presented,12
+110166,Keyboard,received,y,wait_char
+110166,Experiment,ended
+110170,Stimulus,presented,12
+110304,Keyboard,received,121,check

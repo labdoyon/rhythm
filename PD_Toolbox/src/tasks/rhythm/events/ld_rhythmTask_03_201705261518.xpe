@@ -1,0 +1,40 @@
+#Expyriment 0.9.0 (Python 2.7.13), .xpe-file, coding: cp1252
+#date: Fri May 26 2017 15:18:11
+#sha1: 3cd9b3
+#modules: ld_rhythmMenu.py (6a642f)
+#display: size=(1366, 768), window_mode=False, open_gl=2
+#os: ('Windows', 'labdoyon07-PC', '7', '6.1.7601', 'AMD64', 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+4244,Stimulus,presented,0
+10322,design,log,
+#design: #exp: ImgL
+#design: #xpi: Subject: 
+#design: #xpi: BioPark_
+#design: block_cnt,block_id,trial_cnt,trial_id
+10322,design,logged,
+10322,Experiment,started
+10340,Stimulus,presented,0
+12220,Keyboard,received,53,wait
+12237,Stimulus,presented,0
+14256,Stimulus,presented,0
+16262,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mqmgnp\freq675_dur50.0_eshlow.wav
+16366,Keyboard,received,50,check
+18010,Keyboard,received,50,check
+18262,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mqmgnp\freq675_dur50.0_eshlow.wav
+20030,Keyboard,received,50,check
+20262,Stimulus,played,c:\users\labdoy~1\appdata\local\temp\expyriment_mqmgnp\freq675_dur50.0_eshlow.wav
+21880,Experiment,paused
+21883,Stimulus,presented,13
+23534,Keyboard,received,121,check
+25695,Keyboard,received,121,check
+28508,Experiment,paused
+28510,Stimulus,presented,13
+28855,Experiment,paused
+28857,Stimulus,presented,13
+29024,Experiment,paused
+29025,Stimulus,presented,13
+31511,Keyboard,received,121,check
+31689,Keyboard,received,y,wait_char
+31689,Experiment,ended
+31693,Stimulus,presented,13
+31839,Keyboard,received,121,check
